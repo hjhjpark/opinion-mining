@@ -8,7 +8,7 @@ from konlpy.tag import *
 from bs4 import BeautifulSoup
 
 #define
-con=pymysql.connect(host='localhost',port=3306,user='root',password='gee9494',db='world',charset='utf8')
+con=pymysql.connect(host='localhost',port=3306,user='root',password='7char',db='world',charset='utf8')
 cursor=con.cursor()
 
 index=1
